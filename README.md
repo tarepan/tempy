@@ -24,7 +24,7 @@ venvディレクトリをプロジェクト内に配置できる (node_modules�
 ## Project start
 ### fork tempy
 ```
-git clone xxx
+git clone https://github.com/tarepan/tempy.git
 ```
 
 ### start venv
